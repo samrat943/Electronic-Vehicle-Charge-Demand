@@ -1,4 +1,4 @@
-# ⚡ EV Charge Demand Forecasting Toolkit
+# ⚡ Electronic Vehicle Charge Demand
 
 An end-to-end machine learning toolkit designed to forecast electric vehicle (EV) charging station demand, helping operators optimize grid load distribution, avoid bottlenecking, and support sustainable infrastructure planning.
 
